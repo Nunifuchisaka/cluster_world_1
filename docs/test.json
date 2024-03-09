@@ -1,7 +1,6 @@
 {
   "response": {
-    "status": 200,
-    "text1": "Hello World!",
+    "message": "Please say something!"
   },
   "verify": "6bb9d1b8-8048-43cb-8b36-75111e0707d2"
 }
